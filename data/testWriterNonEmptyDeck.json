@@ -1,0 +1,15 @@
+{
+    "flashcard": [
+        {
+            "answer": "so tired",
+            "definition": "i am",
+            "status": "Priority"
+        },
+        {
+            "answer": "let me out",
+            "definition": "pls",
+            "status": "Non-Priority"
+        }
+    ],
+    "name": "myFirstDeck"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "myFirstDeck",
+  "flashcard": [
+    {
+      "definition": "i am",
+      "answer": "so tired",
+      "status": "Priority"
+    },
+
+    {
+      "definition": "can i go",
+      "answer": "play games",
+      "status": "Non-Priority"
+    }
+  ]
+}
